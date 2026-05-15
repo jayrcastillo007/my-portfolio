@@ -46,7 +46,7 @@
                 <div class="p-4 border border-white/10 rounded-xl bg-white/5">
 
                     <a
-                        href="/files/resume.pdf"
+                        href="/files/resume2.pdf"
                         download
                         class="rounded-xl border border-white/10 bg-white/5 px-4 py-2 text-sm font-semibold text-white hover:bg-white/10 transition"
                     >
